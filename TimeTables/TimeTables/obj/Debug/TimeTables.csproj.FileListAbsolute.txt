@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\TimeTables\TimeTables\obj\Debug\TimeTables.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\TimeTables\TimeTables\obj\Debug\TimeTables.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\TimeTables\TimeTables\bin\Debug\TimeTables.exe.config
+C:\Users\JohnN\source\repos\TimeTables\TimeTables\bin\Debug\TimeTables.exe
+C:\Users\JohnN\source\repos\TimeTables\TimeTables\bin\Debug\TimeTables.pdb
+C:\Users\JohnN\source\repos\TimeTables\TimeTables\obj\Debug\TimeTables.exe
+C:\Users\JohnN\source\repos\TimeTables\TimeTables\obj\Debug\TimeTables.pdb

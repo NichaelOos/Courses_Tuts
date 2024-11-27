@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\SumOfIntArray\SumOfIntArray\bin\Debug\SumOfIntArray.exe.config
+C:\Users\JohnN\source\repos\SumOfIntArray\SumOfIntArray\bin\Debug\SumOfIntArray.exe
+C:\Users\JohnN\source\repos\SumOfIntArray\SumOfIntArray\bin\Debug\SumOfIntArray.pdb
+C:\Users\JohnN\source\repos\SumOfIntArray\SumOfIntArray\obj\Debug\SumOfIntArray.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\SumOfIntArray\SumOfIntArray\obj\Debug\SumOfIntArray.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\SumOfIntArray\SumOfIntArray\obj\Debug\SumOfIntArray.exe
+C:\Users\JohnN\source\repos\SumOfIntArray\SumOfIntArray\obj\Debug\SumOfIntArray.pdb
