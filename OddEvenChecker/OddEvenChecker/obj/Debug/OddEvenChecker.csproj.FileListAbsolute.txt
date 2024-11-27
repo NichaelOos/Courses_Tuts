@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\OddEvenChecker\OddEvenChecker\bin\Debug\OddEvenChecker.exe.config
+C:\Users\JohnN\source\repos\OddEvenChecker\OddEvenChecker\bin\Debug\OddEvenChecker.exe
+C:\Users\JohnN\source\repos\OddEvenChecker\OddEvenChecker\bin\Debug\OddEvenChecker.pdb
+C:\Users\JohnN\source\repos\OddEvenChecker\OddEvenChecker\obj\Debug\OddEvenChecker.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\OddEvenChecker\OddEvenChecker\obj\Debug\OddEvenChecker.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\OddEvenChecker\OddEvenChecker\obj\Debug\OddEvenChecker.exe
+C:\Users\JohnN\source\repos\OddEvenChecker\OddEvenChecker\obj\Debug\OddEvenChecker.pdb
