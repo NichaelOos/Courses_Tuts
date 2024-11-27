@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\CustomTryParse\CustomTryParse\bin\Debug\CustomTryParse.exe.config
+C:\Users\JohnN\source\repos\CustomTryParse\CustomTryParse\bin\Debug\CustomTryParse.exe
+C:\Users\JohnN\source\repos\CustomTryParse\CustomTryParse\bin\Debug\CustomTryParse.pdb
+C:\Users\JohnN\source\repos\CustomTryParse\CustomTryParse\obj\Debug\CustomTryParse.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\CustomTryParse\CustomTryParse\obj\Debug\CustomTryParse.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\CustomTryParse\CustomTryParse\obj\Debug\CustomTryParse.exe
+C:\Users\JohnN\source\repos\CustomTryParse\CustomTryParse\obj\Debug\CustomTryParse.pdb

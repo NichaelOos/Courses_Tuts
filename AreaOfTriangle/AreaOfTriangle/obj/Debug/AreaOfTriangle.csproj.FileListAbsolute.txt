@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe.config
+C:\Users\JohnN\source\repos\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe
+C:\Users\JohnN\source\repos\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.pdb
+C:\Users\JohnN\source\repos\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.exe
+C:\Users\JohnN\source\repos\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.pdb

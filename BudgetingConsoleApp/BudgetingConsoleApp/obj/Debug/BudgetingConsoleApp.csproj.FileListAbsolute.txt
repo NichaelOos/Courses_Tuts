@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\BudgetingConsoleApp\BudgetingConsoleApp\bin\Debug\BudgetingConsoleApp.exe.config
+C:\Users\JohnN\source\repos\BudgetingConsoleApp\BudgetingConsoleApp\bin\Debug\BudgetingConsoleApp.exe
+C:\Users\JohnN\source\repos\BudgetingConsoleApp\BudgetingConsoleApp\bin\Debug\BudgetingConsoleApp.pdb
+C:\Users\JohnN\source\repos\BudgetingConsoleApp\BudgetingConsoleApp\obj\Debug\BudgetingConsoleApp.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\BudgetingConsoleApp\BudgetingConsoleApp\obj\Debug\BudgetingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\BudgetingConsoleApp\BudgetingConsoleApp\obj\Debug\BudgetingConsoleApp.exe
+C:\Users\JohnN\source\repos\BudgetingConsoleApp\BudgetingConsoleApp\obj\Debug\BudgetingConsoleApp.pdb
