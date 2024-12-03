@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\FunctionParameters\FunctionParameters\bin\Debug\FunctionParameters.exe.config
+C:\Users\JohnN\source\repos\FunctionParameters\FunctionParameters\bin\Debug\FunctionParameters.exe
+C:\Users\JohnN\source\repos\FunctionParameters\FunctionParameters\bin\Debug\FunctionParameters.pdb
+C:\Users\JohnN\source\repos\FunctionParameters\FunctionParameters\obj\Debug\FunctionParameters.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\FunctionParameters\FunctionParameters\obj\Debug\FunctionParameters.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\FunctionParameters\FunctionParameters\obj\Debug\FunctionParameters.exe
+C:\Users\JohnN\source\repos\FunctionParameters\FunctionParameters\obj\Debug\FunctionParameters.pdb

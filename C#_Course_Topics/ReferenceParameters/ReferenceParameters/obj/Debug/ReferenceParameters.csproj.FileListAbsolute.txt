@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.exe.config
+C:\Users\JohnN\source\repos\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.exe
+C:\Users\JohnN\source\repos\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.pdb
+C:\Users\JohnN\source\repos\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.exe
+C:\Users\JohnN\source\repos\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.pdb

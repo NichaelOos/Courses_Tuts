@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Users\JohnN\source\repos\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Users\JohnN\source\repos\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Users\JohnN\source\repos\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Users\JohnN\source\repos\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.pdb

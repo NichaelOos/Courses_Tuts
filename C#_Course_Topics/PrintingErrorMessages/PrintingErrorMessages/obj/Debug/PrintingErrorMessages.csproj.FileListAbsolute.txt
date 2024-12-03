@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\PrintingErrorMessages\PrintingErrorMessages\bin\Debug\PrintingErrorMessages.exe.config
+C:\Users\JohnN\source\repos\PrintingErrorMessages\PrintingErrorMessages\bin\Debug\PrintingErrorMessages.exe
+C:\Users\JohnN\source\repos\PrintingErrorMessages\PrintingErrorMessages\bin\Debug\PrintingErrorMessages.pdb
+C:\Users\JohnN\source\repos\PrintingErrorMessages\PrintingErrorMessages\obj\Debug\PrintingErrorMessages.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\PrintingErrorMessages\PrintingErrorMessages\obj\Debug\PrintingErrorMessages.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\PrintingErrorMessages\PrintingErrorMessages\obj\Debug\PrintingErrorMessages.exe
+C:\Users\JohnN\source\repos\PrintingErrorMessages\PrintingErrorMessages\obj\Debug\PrintingErrorMessages.pdb

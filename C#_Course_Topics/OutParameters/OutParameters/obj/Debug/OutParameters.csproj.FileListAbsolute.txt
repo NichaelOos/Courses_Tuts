@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\OutParameters\OutParameters\bin\Debug\OutParameters.exe.config
+C:\Users\JohnN\source\repos\OutParameters\OutParameters\bin\Debug\OutParameters.exe
+C:\Users\JohnN\source\repos\OutParameters\OutParameters\bin\Debug\OutParameters.pdb
+C:\Users\JohnN\source\repos\OutParameters\OutParameters\obj\Debug\OutParameters.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\OutParameters\OutParameters\obj\Debug\OutParameters.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\OutParameters\OutParameters\obj\Debug\OutParameters.exe
+C:\Users\JohnN\source\repos\OutParameters\OutParameters\obj\Debug\OutParameters.pdb
