@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ClassFunctions\ClassFunctions\bin\Debug\ClassFunctions.exe.config
+C:\Users\JohnN\source\repos\ClassFunctions\ClassFunctions\bin\Debug\ClassFunctions.exe
+C:\Users\JohnN\source\repos\ClassFunctions\ClassFunctions\bin\Debug\ClassFunctions.pdb
+C:\Users\JohnN\source\repos\ClassFunctions\ClassFunctions\obj\Debug\ClassFunctions.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ClassFunctions\ClassFunctions\obj\Debug\ClassFunctions.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ClassFunctions\ClassFunctions\obj\Debug\ClassFunctions.exe
+C:\Users\JohnN\source\repos\ClassFunctions\ClassFunctions\obj\Debug\ClassFunctions.pdb

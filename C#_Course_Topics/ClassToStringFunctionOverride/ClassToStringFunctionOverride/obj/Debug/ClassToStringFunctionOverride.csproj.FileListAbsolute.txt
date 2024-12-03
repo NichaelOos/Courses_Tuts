@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ClassToStringFunctionOverride\ClassToStringFunctionOverride\bin\Debug\ClassToStringFunctionOverride.exe.config
+C:\Users\JohnN\source\repos\ClassToStringFunctionOverride\ClassToStringFunctionOverride\bin\Debug\ClassToStringFunctionOverride.exe
+C:\Users\JohnN\source\repos\ClassToStringFunctionOverride\ClassToStringFunctionOverride\bin\Debug\ClassToStringFunctionOverride.pdb
+C:\Users\JohnN\source\repos\ClassToStringFunctionOverride\ClassToStringFunctionOverride\obj\Debug\ClassToStringFunctionOverride.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ClassToStringFunctionOverride\ClassToStringFunctionOverride\obj\Debug\ClassToStringFunctionOverride.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ClassToStringFunctionOverride\ClassToStringFunctionOverride\obj\Debug\ClassToStringFunctionOverride.exe
+C:\Users\JohnN\source\repos\ClassToStringFunctionOverride\ClassToStringFunctionOverride\obj\Debug\ClassToStringFunctionOverride.pdb
