@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\NumericalFormatting\NumericalFormatting\bin\Debug\NumericalFormatting.exe.config
+C:\Users\JohnN\source\repos\NumericalFormatting\NumericalFormatting\bin\Debug\NumericalFormatting.exe
+C:\Users\JohnN\source\repos\NumericalFormatting\NumericalFormatting\bin\Debug\NumericalFormatting.pdb
+C:\Users\JohnN\source\repos\NumericalFormatting\NumericalFormatting\obj\Debug\NumericalFormatting.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\NumericalFormatting\NumericalFormatting\obj\Debug\NumericalFormatting.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\NumericalFormatting\NumericalFormatting\obj\Debug\NumericalFormatting.exe
+C:\Users\JohnN\source\repos\NumericalFormatting\NumericalFormatting\obj\Debug\NumericalFormatting.pdb

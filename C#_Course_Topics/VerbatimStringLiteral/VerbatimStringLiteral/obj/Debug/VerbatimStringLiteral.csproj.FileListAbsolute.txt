@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.exe.config
+C:\Users\JohnN\source\repos\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.exe
+C:\Users\JohnN\source\repos\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.pdb
+C:\Users\JohnN\source\repos\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.exe
+C:\Users\JohnN\source\repos\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.pdb
