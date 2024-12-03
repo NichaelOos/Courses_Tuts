@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\VoidFunctions\VoidFunctions\bin\Debug\VoidFunctions.exe.config
+C:\Users\JohnN\source\repos\VoidFunctions\VoidFunctions\bin\Debug\VoidFunctions.exe
+C:\Users\JohnN\source\repos\VoidFunctions\VoidFunctions\bin\Debug\VoidFunctions.pdb
+C:\Users\JohnN\source\repos\VoidFunctions\VoidFunctions\obj\Debug\VoidFunctions.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\VoidFunctions\VoidFunctions\obj\Debug\VoidFunctions.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\VoidFunctions\VoidFunctions\obj\Debug\VoidFunctions.exe
+C:\Users\JohnN\source\repos\VoidFunctions\VoidFunctions\obj\Debug\VoidFunctions.pdb

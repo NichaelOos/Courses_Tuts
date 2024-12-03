@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ReturnTypeFunction\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.exe.config
+C:\Users\JohnN\source\repos\ReturnTypeFunction\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.exe
+C:\Users\JohnN\source\repos\ReturnTypeFunction\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.pdb
+C:\Users\JohnN\source\repos\ReturnTypeFunction\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ReturnTypeFunction\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ReturnTypeFunction\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.exe
+C:\Users\JohnN\source\repos\ReturnTypeFunction\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.pdb

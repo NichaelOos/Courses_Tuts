@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\OddEvenNumberSplit\OddEvenNumberSplit\bin\Debug\OddEvenNumberSplit.exe.config
+C:\Users\JohnN\source\repos\OddEvenNumberSplit\OddEvenNumberSplit\bin\Debug\OddEvenNumberSplit.exe
+C:\Users\JohnN\source\repos\OddEvenNumberSplit\OddEvenNumberSplit\bin\Debug\OddEvenNumberSplit.pdb
+C:\Users\JohnN\source\repos\OddEvenNumberSplit\OddEvenNumberSplit\obj\Debug\OddEvenNumberSplit.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\OddEvenNumberSplit\OddEvenNumberSplit\obj\Debug\OddEvenNumberSplit.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\OddEvenNumberSplit\OddEvenNumberSplit\obj\Debug\OddEvenNumberSplit.exe
+C:\Users\JohnN\source\repos\OddEvenNumberSplit\OddEvenNumberSplit\obj\Debug\OddEvenNumberSplit.pdb
