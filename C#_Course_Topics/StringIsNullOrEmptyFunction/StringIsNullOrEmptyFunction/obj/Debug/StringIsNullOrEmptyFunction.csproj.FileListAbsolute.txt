@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\StringIsNullOrEmptyFunction\StringIsNullOrEmptyFunction\bin\Debug\StringIsNullOrEmptyFunction.exe.config
+C:\Users\JohnN\source\repos\StringIsNullOrEmptyFunction\StringIsNullOrEmptyFunction\bin\Debug\StringIsNullOrEmptyFunction.exe
+C:\Users\JohnN\source\repos\StringIsNullOrEmptyFunction\StringIsNullOrEmptyFunction\bin\Debug\StringIsNullOrEmptyFunction.pdb
+C:\Users\JohnN\source\repos\StringIsNullOrEmptyFunction\StringIsNullOrEmptyFunction\obj\Debug\StringIsNullOrEmptyFunction.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\StringIsNullOrEmptyFunction\StringIsNullOrEmptyFunction\obj\Debug\StringIsNullOrEmptyFunction.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\StringIsNullOrEmptyFunction\StringIsNullOrEmptyFunction\obj\Debug\StringIsNullOrEmptyFunction.exe
+C:\Users\JohnN\source\repos\StringIsNullOrEmptyFunction\StringIsNullOrEmptyFunction\obj\Debug\StringIsNullOrEmptyFunction.pdb

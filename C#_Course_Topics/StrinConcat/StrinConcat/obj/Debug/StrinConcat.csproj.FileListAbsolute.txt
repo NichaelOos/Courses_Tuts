@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\StrinConcat\StrinConcat\bin\Debug\StrinConcat.exe.config
+C:\Users\JohnN\source\repos\StrinConcat\StrinConcat\bin\Debug\StrinConcat.exe
+C:\Users\JohnN\source\repos\StrinConcat\StrinConcat\bin\Debug\StrinConcat.pdb
+C:\Users\JohnN\source\repos\StrinConcat\StrinConcat\obj\Debug\StrinConcat.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\StrinConcat\StrinConcat\obj\Debug\StrinConcat.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\StrinConcat\StrinConcat\obj\Debug\StrinConcat.exe
+C:\Users\JohnN\source\repos\StrinConcat\StrinConcat\obj\Debug\StrinConcat.pdb

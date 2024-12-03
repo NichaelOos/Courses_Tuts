@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\StringIteration\StringIteration\bin\Debug\StringIteration.exe.config
+C:\Users\JohnN\source\repos\StringIteration\StringIteration\bin\Debug\StringIteration.exe
+C:\Users\JohnN\source\repos\StringIteration\StringIteration\bin\Debug\StringIteration.pdb
+C:\Users\JohnN\source\repos\StringIteration\StringIteration\obj\Debug\StringIteration.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\StringIteration\StringIteration\obj\Debug\StringIteration.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\StringIteration\StringIteration\obj\Debug\StringIteration.exe
+C:\Users\JohnN\source\repos\StringIteration\StringIteration\obj\Debug\StringIteration.pdb

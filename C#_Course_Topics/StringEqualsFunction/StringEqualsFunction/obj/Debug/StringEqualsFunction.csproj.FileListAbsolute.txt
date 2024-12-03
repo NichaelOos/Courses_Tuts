@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\StringEqualsFunction\StringEqualsFunction\bin\Debug\StringEqualsFunction.exe.config
+C:\Users\JohnN\source\repos\StringEqualsFunction\StringEqualsFunction\bin\Debug\StringEqualsFunction.exe
+C:\Users\JohnN\source\repos\StringEqualsFunction\StringEqualsFunction\bin\Debug\StringEqualsFunction.pdb
+C:\Users\JohnN\source\repos\StringEqualsFunction\StringEqualsFunction\obj\Debug\StringEqualsFunction.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\StringEqualsFunction\StringEqualsFunction\obj\Debug\StringEqualsFunction.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\StringEqualsFunction\StringEqualsFunction\obj\Debug\StringEqualsFunction.exe
+C:\Users\JohnN\source\repos\StringEqualsFunction\StringEqualsFunction\obj\Debug\StringEqualsFunction.pdb

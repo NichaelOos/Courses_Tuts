@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\EmptyString\EmptyString\bin\Debug\EmptyString.exe.config
+C:\Users\JohnN\source\repos\EmptyString\EmptyString\bin\Debug\EmptyString.exe
+C:\Users\JohnN\source\repos\EmptyString\EmptyString\bin\Debug\EmptyString.pdb
+C:\Users\JohnN\source\repos\EmptyString\EmptyString\obj\Debug\EmptyString.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\EmptyString\EmptyString\obj\Debug\EmptyString.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\EmptyString\EmptyString\obj\Debug\EmptyString.exe
+C:\Users\JohnN\source\repos\EmptyString\EmptyString\obj\Debug\EmptyString.pdb
