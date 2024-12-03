@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\TextBasedDtypes\TextBasedDtypes\bin\Debug\TextBasedDtypes.exe.config
+C:\Users\JohnN\source\repos\TextBasedDtypes\TextBasedDtypes\bin\Debug\TextBasedDtypes.exe
+C:\Users\JohnN\source\repos\TextBasedDtypes\TextBasedDtypes\bin\Debug\TextBasedDtypes.pdb
+C:\Users\JohnN\source\repos\TextBasedDtypes\TextBasedDtypes\obj\Debug\TextBasedDtypes.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\TextBasedDtypes\TextBasedDtypes\obj\Debug\TextBasedDtypes.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\TextBasedDtypes\TextBasedDtypes\obj\Debug\TextBasedDtypes.exe
+C:\Users\JohnN\source\repos\TextBasedDtypes\TextBasedDtypes\obj\Debug\TextBasedDtypes.pdb

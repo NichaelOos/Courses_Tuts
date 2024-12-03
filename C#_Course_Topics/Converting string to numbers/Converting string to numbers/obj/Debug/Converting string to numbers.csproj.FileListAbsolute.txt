@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\Converting string to numbers\Converting string to numbers\bin\Debug\Converting string to numbers.exe.config
+C:\Users\JohnN\source\repos\Converting string to numbers\Converting string to numbers\bin\Debug\Converting string to numbers.exe
+C:\Users\JohnN\source\repos\Converting string to numbers\Converting string to numbers\bin\Debug\Converting string to numbers.pdb
+C:\Users\JohnN\source\repos\Converting string to numbers\Converting string to numbers\obj\Debug\Converting string to numbers.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\Converting string to numbers\Converting string to numbers\obj\Debug\Converting string to numbers.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\Converting string to numbers\Converting string to numbers\obj\Debug\Converting string to numbers.exe
+C:\Users\JohnN\source\repos\Converting string to numbers\Converting string to numbers\obj\Debug\Converting string to numbers.pdb
