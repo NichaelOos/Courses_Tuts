@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.exe.config
+C:\Users\JohnN\source\repos\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.exe
+C:\Users\JohnN\source\repos\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.pdb
+C:\Users\JohnN\source\repos\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.exe
+C:\Users\JohnN\source\repos\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.pdb

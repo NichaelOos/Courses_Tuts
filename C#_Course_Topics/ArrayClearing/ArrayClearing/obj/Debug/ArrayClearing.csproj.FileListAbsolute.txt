@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ArrayClearing\ArrayClearing\bin\Debug\ArrayClearing.exe.config
+C:\Users\JohnN\source\repos\ArrayClearing\ArrayClearing\bin\Debug\ArrayClearing.exe
+C:\Users\JohnN\source\repos\ArrayClearing\ArrayClearing\bin\Debug\ArrayClearing.pdb
+C:\Users\JohnN\source\repos\ArrayClearing\ArrayClearing\obj\Debug\ArrayClearing.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ArrayClearing\ArrayClearing\obj\Debug\ArrayClearing.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ArrayClearing\ArrayClearing\obj\Debug\ArrayClearing.exe
+C:\Users\JohnN\source\repos\ArrayClearing\ArrayClearing\obj\Debug\ArrayClearing.pdb

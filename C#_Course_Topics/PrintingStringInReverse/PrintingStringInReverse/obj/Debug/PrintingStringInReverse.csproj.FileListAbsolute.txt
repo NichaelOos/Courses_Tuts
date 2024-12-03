@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\PrintingStringInReverse\PrintingStringInReverse\bin\Debug\PrintingStringInReverse.exe.config
+C:\Users\JohnN\source\repos\PrintingStringInReverse\PrintingStringInReverse\bin\Debug\PrintingStringInReverse.exe
+C:\Users\JohnN\source\repos\PrintingStringInReverse\PrintingStringInReverse\bin\Debug\PrintingStringInReverse.pdb
+C:\Users\JohnN\source\repos\PrintingStringInReverse\PrintingStringInReverse\obj\Debug\PrintingStringInReverse.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\PrintingStringInReverse\PrintingStringInReverse\obj\Debug\PrintingStringInReverse.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\PrintingStringInReverse\PrintingStringInReverse\obj\Debug\PrintingStringInReverse.exe
+C:\Users\JohnN\source\repos\PrintingStringInReverse\PrintingStringInReverse\obj\Debug\PrintingStringInReverse.pdb

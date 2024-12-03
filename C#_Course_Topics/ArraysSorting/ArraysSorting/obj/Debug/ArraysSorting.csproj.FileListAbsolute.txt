@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ArraysSorting\ArraysSorting\bin\Debug\ArraysSorting.exe.config
+C:\Users\JohnN\source\repos\ArraysSorting\ArraysSorting\bin\Debug\ArraysSorting.exe
+C:\Users\JohnN\source\repos\ArraysSorting\ArraysSorting\bin\Debug\ArraysSorting.pdb
+C:\Users\JohnN\source\repos\ArraysSorting\ArraysSorting\obj\Debug\ArraysSorting.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ArraysSorting\ArraysSorting\obj\Debug\ArraysSorting.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ArraysSorting\ArraysSorting\obj\Debug\ArraysSorting.exe
+C:\Users\JohnN\source\repos\ArraysSorting\ArraysSorting\obj\Debug\ArraysSorting.pdb
