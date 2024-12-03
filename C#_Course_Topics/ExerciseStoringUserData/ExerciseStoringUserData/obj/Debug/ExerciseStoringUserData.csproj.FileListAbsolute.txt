@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ExerciseStoringUserData\ExerciseStoringUserData\bin\Debug\ExerciseStoringUserData.exe.config
+C:\Users\JohnN\source\repos\ExerciseStoringUserData\ExerciseStoringUserData\bin\Debug\ExerciseStoringUserData.exe
+C:\Users\JohnN\source\repos\ExerciseStoringUserData\ExerciseStoringUserData\bin\Debug\ExerciseStoringUserData.pdb
+C:\Users\JohnN\source\repos\ExerciseStoringUserData\ExerciseStoringUserData\obj\Debug\ExerciseStoringUserData.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ExerciseStoringUserData\ExerciseStoringUserData\obj\Debug\ExerciseStoringUserData.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ExerciseStoringUserData\ExerciseStoringUserData\obj\Debug\ExerciseStoringUserData.exe
+C:\Users\JohnN\source\repos\ExerciseStoringUserData\ExerciseStoringUserData\obj\Debug\ExerciseStoringUserData.pdb

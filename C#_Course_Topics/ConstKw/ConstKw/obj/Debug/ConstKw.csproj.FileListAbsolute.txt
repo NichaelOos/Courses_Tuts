@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ConstKw\ConstKw\bin\Debug\ConstKw.exe.config
+C:\Users\JohnN\source\repos\ConstKw\ConstKw\bin\Debug\ConstKw.exe
+C:\Users\JohnN\source\repos\ConstKw\ConstKw\bin\Debug\ConstKw.pdb
+C:\Users\JohnN\source\repos\ConstKw\ConstKw\obj\Debug\ConstKw.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ConstKw\ConstKw\obj\Debug\ConstKw.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ConstKw\ConstKw\obj\Debug\ConstKw.exe
+C:\Users\JohnN\source\repos\ConstKw\ConstKw\obj\Debug\ConstKw.pdb

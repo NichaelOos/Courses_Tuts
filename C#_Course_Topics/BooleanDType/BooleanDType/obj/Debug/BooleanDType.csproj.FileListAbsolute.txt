@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\BooleanDType\BooleanDType\bin\Debug\BooleanDType.exe.config
+C:\Users\JohnN\source\repos\BooleanDType\BooleanDType\bin\Debug\BooleanDType.exe
+C:\Users\JohnN\source\repos\BooleanDType\BooleanDType\bin\Debug\BooleanDType.pdb
+C:\Users\JohnN\source\repos\BooleanDType\BooleanDType\obj\Debug\BooleanDType.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\BooleanDType\BooleanDType\obj\Debug\BooleanDType.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\BooleanDType\BooleanDType\obj\Debug\BooleanDType.exe
+C:\Users\JohnN\source\repos\BooleanDType\BooleanDType\obj\Debug\BooleanDType.pdb

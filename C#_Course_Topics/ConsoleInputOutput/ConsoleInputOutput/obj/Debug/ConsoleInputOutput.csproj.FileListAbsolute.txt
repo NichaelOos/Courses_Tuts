@@ -1,0 +1,7 @@
+C:\Users\JohnN\source\repos\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+C:\Users\JohnN\source\repos\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe
+C:\Users\JohnN\source\repos\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.pdb
+C:\Users\JohnN\source\repos\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.csproj.AssemblyReference.cache
+C:\Users\JohnN\source\repos\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\JohnN\source\repos\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+C:\Users\JohnN\source\repos\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb
